@@ -1,0 +1,15 @@
+helpers contain packages that their methods will be used within the app constantly
+other packages in utils are called once on app initiation only to return a value (object) that is needed within the app
+those packages are not needed later on in the app, thus not part of helpers
+utils packages should implement the utils interface
+
+while the helpers packages should implement the helpers interface and 
+
+X Context
+    - make a package for the interface
+        - interface
+        - validation
+- Logs
+- Errors
+- routing - serve APIs
+- HTTP (responses, errors, exceptions)
