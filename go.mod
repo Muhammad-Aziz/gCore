@@ -1,4 +1,4 @@
-module github.com/maziz/gCore
+module github.com/Muhammad-Aziz/gCore
 
 go 1.22.2
 

@@ -1,6 +1,6 @@
 package error_handler
 
-import "github.com/maziz/gCore/helpers"
+import "github.com/Muhammad-Aziz/gCore/helpers"
 
 const errorHandlerKey helpers.ContextKey = "ErrorHandlerContext"
 

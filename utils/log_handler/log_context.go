@@ -3,7 +3,7 @@ package log_handler
 import (
 	"context"
 
-	"github.com/maziz/gCore/utils"
+	"github.com/Muhammad-Aziz/gCore/utils"
 )
 
 const logHandlerKey utils.ContextKey = "LogHandlerContext"

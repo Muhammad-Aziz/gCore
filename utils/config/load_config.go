@@ -1,8 +1,8 @@
 package config
 
 import (
+	"github.com/Muhammad-Aziz/gCore/utils"
 	"github.com/fsnotify/fsnotify"
-	"github.com/maziz/gCore/utils"
 	"github.com/spf13/viper"
 )
 

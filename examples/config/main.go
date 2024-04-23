@@ -4,9 +4,6 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/maziz/gCore/helpers/context_handler"
-	"github.com/maziz/gCore/utils/config"
-)
 
 type Params struct {
 	ConfigPath string

@@ -1,6 +1,6 @@
 package file_handler
 
-import "github.com/maziz/gCore/helpers"
+import "github.com/Muhammad-Aziz/gCore/helpers"
 
 type FileHandler struct{}
 
